@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+.explore-section {
+
+    background-color: #ECE8D9; 
+    margin-top: 40px;
+    padding: 60px 0;
+    width: 100%;
+}
+
+
+.explore-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.explore-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    /* flex-wrap: wrap;  */
+    gap: 20px;
+}
+
+.door {
+    font-family: "SF Pro" sans-serif;
+    font-size: 24px;
+}
+
+.description {
+    font-size: 30px;
+    font-family: "DM Serif Display" serif;
+    line-height: 28px;
+    font-weight: 400;
+    color: #5f6368;
+    margin: 0 0 32px;
+    max-width: 850px; 
+}
