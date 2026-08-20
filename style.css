@@ -46,3 +46,19 @@
     margin: 0 0 32px;
     max-width: 850px; 
 }
+
+
+
+.card {
+    background: transparent;
+}
+
+.card h6 {
+    color: #384A62;
+    font-weight: 600;
+}
+
+.card p {
+    color: #384A62;
+    line-height: 1.6;
+}
